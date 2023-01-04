@@ -1,3 +1,4 @@
+//最早的版本项目被领导赶工做烂尾了，之后会重新制作，哈哈哈
 const int dirPin   = A7;   // Direction
 const int stepPin  = 6;   // Step
 const int ms3Pin   = A6;   // Ms3
